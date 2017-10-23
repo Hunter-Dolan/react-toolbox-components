@@ -9,7 +9,7 @@ import Dialog from 'react-toolbox/lib/dialog'
 import {DATE_PICKER, TIME_PICKER} from 'react-toolbox/lib/identifiers'
 import Input from 'react-toolbox/lib/input'
 import timePickerDialogFactory from 'react-toolbox/lib/time_picker/TimePickerDialog'
-import timeTheme from 'react-toolbox/lib/time_picker/theme.scss'
+import timeTheme from 'react-toolbox/lib/time_picker/theme.css'
 import compose from 'recompose/compose'
 import withState from 'recompose/withState'
 
